@@ -29,7 +29,7 @@
 
 <h3>Website Preview:</h3>
 
-<img src="images/">
+<img src="Images/RPsite.png">
 
 <h3>Preview of the HTML: <h3>
 
@@ -43,7 +43,7 @@
 
 <img src="Images/Favorites.png">
 
-<h4>Looking Forward: <h4>
+<h4>Looking Forward: </h4>
 
 <p> Looking forward I would like to continue updating this portfolio with the most current information. Possibly would like to add some projects I've built or been working on. Hopefully, turning personal portfolio into more of a professional one to show my skills learns and achievements in the course.
 
